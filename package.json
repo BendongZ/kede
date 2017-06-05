@@ -1,0 +1,27 @@
+{
+  "name": "kede",
+  "version": "1.0.0",
+  "description": "webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BendongZ/kede.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BendongZ/kede/issues"
+  },
+  "homepage": "https://github.com/BendongZ/kede#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0",
+    "gulp-webserver": "^0.9.1",
+    "imports-loader": "^0.7.1",
+    "vinyl-named": "^1.1.0"
+  }
+}
